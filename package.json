@@ -1,0 +1,17 @@
+{
+  "name": "webpack-deps-plugin",
+  "version": "0.1.0",
+  "description": "Webpack plugin to easily get assets dependency graph based on entry point",
+  "main": "./lib/WebpackDepsPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "dependency",
+    "graph"
+  ],
+  "author": "Fatih Kalifa <fatihkalifa@gmail.com>",
+  "license": "MIT"
+}
