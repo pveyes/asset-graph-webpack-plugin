@@ -1,22 +1,27 @@
 {
-  "name": "webpack-deps-plugin",
+  "name": "asset-graph-webpack-plugin",
   "version": "0.1.1",
   "description": "Webpack plugin to easily get assets dependency graph based on entry point",
-  "main": "./lib/WebpackDepsPlugin.js",
+  "main": "./lib/AssetGraphPlugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "webpack",
     "plugin",
+    "asset",
+    "assets",
     "dependency",
-    "graph"
+    "graph",
+    "javascript",
+    "css",
+    "modules"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pveyes/webpack-deps-plugin"
+    "url": "https://github.com/pveyes/asset-graph-webpack-plugin"
   },
-  "bugs": "https://github.com/pveyes/webpack-deps-plugin/issues",
+  "bugs": "https://github.com/pveyes/asset-graph-webpack-plugin/issues",
   "author": "Fatih Kalifa <fatihkalifa@gmail.com> (http://pveyes.me/blog)",
   "license": "MIT"
 }
