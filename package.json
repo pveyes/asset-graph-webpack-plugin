@@ -1,6 +1,6 @@
 {
   "name": "asset-graph-webpack-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Webpack plugin to easily get assets dependency graph based on entry point",
   "main": "./lib/AssetGraphPlugin.js",
   "scripts": {
