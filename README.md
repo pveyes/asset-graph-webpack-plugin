@@ -1,5 +1,7 @@
 # asset-graph-webpack-plugin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pveyes/asset-graph-webpack-plugin.svg)](https://greenkeeper.io/)
+
 > Webpack plugin to easily get assets dependency graph based on entry point
 
 Given your application entry points, get all files needed to load from that entry point
